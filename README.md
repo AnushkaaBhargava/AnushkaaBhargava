@@ -4,6 +4,8 @@
 
 🎓 Computer Science Student at Bennett University
 
+CGPA: 8.9/10
+
 ---
 
 ## 🚀 About Me
