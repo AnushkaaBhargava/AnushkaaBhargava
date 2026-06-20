@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Anushkaa Bhargava 👋
 
-<!--
-**AnushkaaBhargava/AnushkaaBhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Enthusiast | MERN Stack Developer
 
-Here are some ideas to get you started:
+🎓 Computer Science Student at Bennett University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* Currently building a Women's Scholarship Portal using the MERN Stack
+* Interested in Full Stack Development and Software Engineering
+* Solved 200+ DSA Problems
+* Learning React, Node.js, Express.js, MongoDB, and System Design
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** C++, Python, JavaScript, Java
+
+**Web Development:** React.js, Node.js, Express.js, HTML, CSS
+
+**Databases:** MongoDB, SQL
+
+**Tools:** Git, GitHub, VS Code, JIRA
+
+---
+
+## 📌 Featured Projects
+
+### 🌾 AgriVision
+
+Smart Agriculture Recommendation System using Python, FastAPI, XGBoost and ARIMA.
+
+### 🏃 BodySync
+
+Fitness tracking application built using Flutter and Firebase.
+
+### 🎓 Women's Scholarship Portal
+
+MERN-based platform for scholarship discovery, eligibility tracking, and application management.
+
+---
+
+## 🧩 Problem Solving
+
+* Solved 200+ DSA Problems
+* Active LeetCode Practitioner
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn
+  www.linkedin.com/in/
+anushkaa-bhargava-
+
