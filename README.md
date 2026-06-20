@@ -1,6 +1,6 @@
 # Hi, I'm Anushkaa Bhargava 👋
 
-💻 Software Development Enthusiast | MERN Stack Developer
+💻 Software Development Enthusiast | MERN Stack Learner
 
 🎓 Computer Science Student at Bennett University
 
