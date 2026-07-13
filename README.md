@@ -1,4 +1,4 @@
-# Hi, I'm Anushkaa Bhargava 👋
+# Hi, I'm Anushkaa Bhargava 
 
 💻 Software Development Enthusiast | MERN Stack Learner
 
@@ -8,7 +8,7 @@ CGPA: 8.9/10
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * Currently building a Women's Scholarship Portal using the MERN Stack
 * Interested in Full Stack Development and Software Engineering
@@ -29,7 +29,7 @@ CGPA: 8.9/10
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🌾 AgriVision
 
@@ -45,14 +45,14 @@ MERN-based platform for scholarship discovery, eligibility tracking, and applica
 
 ---
 
-## 🧩 Problem Solving
+##  Problem Solving
 
 * Solved 200+ DSA Problems
 * Active LeetCode Practitioner
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn
   www.linkedin.com/in/
