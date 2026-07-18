@@ -4,7 +4,7 @@
 
 🎓 Computer Science Student at Bennett University
 
-CGPA: 8.9/10
+CGPA: 8.85/10
 
 ---
 
@@ -47,7 +47,7 @@ MERN-based platform for scholarship discovery, eligibility tracking, and applica
 
 ##  Problem Solving
 
-* Solved 200+ DSA Problems
+* Increasing my problem solving skills by prastising DSA 
 * Active LeetCode Practitioner
 
 ---
